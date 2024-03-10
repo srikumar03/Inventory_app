@@ -1,4 +1,4 @@
-###Inventory Management using PHP, MySQL
+## Inventory Management using PHP, MySQL
 
 >  - click the below image to explore
 
